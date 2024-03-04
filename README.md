@@ -12,8 +12,9 @@ Ambulance booking system website  based on fastAPI with frontend based on - html
 
 ## Services
 
+![Untitled](https://github.com/7bhinav/Ambulance-Booking-System/assets/154069774/83a51bb0-25b7-4b63-9bc8-4a2191d08829)
 
-![services ](https://github.com/7bhinav/Ambulance-Booking-System/assets/154069774/fc65acf2-0ac0-4bf4-9414-9ba6ab8c3b74)
+
 
 
 ## ⛭ Execution 
